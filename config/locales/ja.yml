@@ -1,0 +1,11 @@
+ja:
+  activerecord:
+    models:
+      user: ユーザー
+    attributes:
+      user:
+        title: タイトル
+        startday: 開始日
+        endday: 終了日
+        allday: 終日
+        memo: スケジュールメモ
